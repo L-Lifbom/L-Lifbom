@@ -1,8 +1,4 @@
 # Hello!
-
-##### Javascript
-##### C#
-##### Python
-##### PHP
-
 https://lifbom.se
+
+Javascript, C#, Python, PHP
