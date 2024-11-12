@@ -5,4 +5,4 @@
 - Python
 - PHP
 
-https://lifboms.se
+https://lifbom.se
