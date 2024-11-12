@@ -1,4 +1,4 @@
 # Hello!
 https://lifbom.se
 
-Javascript, C#, Python, PHP, SQL
+JavaScript, C#, Python, PHP, SQL
