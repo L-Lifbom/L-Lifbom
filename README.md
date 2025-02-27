@@ -1,2 +1,2 @@
-# Hello!
+# Hi!
 https://lifbom.com/
